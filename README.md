@@ -1,4 +1,8 @@
-# ckeditor-nuxt-sample2
+# ckeditor-nuxt-sample
+
+## Introduction
+This project demonstrates how you integrate CkEditor with Nuxt.js project. The WYSWYG editor is refactored into `components/rich-editor.vue` which can be easily re-used in your project. Don't forget to include the dependencies.
+
 
 ## Build Setup
 
